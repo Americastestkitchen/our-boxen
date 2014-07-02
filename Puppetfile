@@ -59,3 +59,9 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "postgresql",  "2.2.3"
+github "imagemagick", "1.2.1"
+github "iterm2",      "1.1.1"
+github "memcached",   "2.0.0"
+github "screenhero",  "1.0.1"
+github "propane",     "1.0.0"
